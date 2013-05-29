@@ -2,3 +2,4 @@
 *.emacs
 *.lock
 *.desktop
+*.pyc
