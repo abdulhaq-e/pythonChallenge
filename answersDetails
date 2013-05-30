@@ -11,3 +11,4 @@ Translate the given text using the hint given, the text will be:
 After applying to the url (translating 'map'): we get 'ocr' which is the answer.
 
 L3:
+Use regular expressions (preferably) to filter out only alphabets. other good solutions are important
