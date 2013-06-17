@@ -12,3 +12,6 @@ After applying to the url (translating 'map'): we get 'ocr' which is the answer.
 
 L3:
 Use regular expressions (preferably) to filter out only alphabets. other good solutions are important
+
+L4:
+regular expressions are definitely the way to go this time, three bodyguards on each side of a small letter, the trick is that the solution is not a single letter.
